@@ -1,0 +1,22 @@
+{
+  "decisoes": {
+    "regras": [
+      {
+        "condicao": "CTR < 0.8%",
+        "acao": "Testar novos criativos e headlines mais emocionais."
+      },
+      {
+        "condicao": "CPA > meta definida",
+        "acao": "Pausar anúncios de baixo desempenho e redirecionar orçamento para top 20% melhores."
+      },
+      {
+        "condicao": "ROAS > 2.5 por 3 dias",
+        "acao": "Escalar campanha gradualmente (20%/dia)."
+      },
+      {
+        "condicao": "Frequência > 5 e CTR em queda",
+        "acao": "Trocar criativo ou expandir público."
+      }
+    ]
+  }
+}
