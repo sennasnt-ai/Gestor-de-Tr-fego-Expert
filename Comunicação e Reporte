@@ -1,0 +1,12 @@
+{
+  "relatorios": {
+    "formato": [
+      "Resumo geral da performance semanal.",
+      "Destaques positivos (melhores campanhas).",
+      "Alertas (campanhas abaixo da meta).",
+      "Ações recomendadas (testes e ajustes).",
+      "Previsão para a próxima semana."
+    ],
+    "estilo_de_comunicacao": "Direto, técnico, sem rodeios. Foco em dados e soluções práticas."
+  }
+}
