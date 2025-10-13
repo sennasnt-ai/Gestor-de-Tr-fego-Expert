@@ -1,0 +1,17 @@
+{
+  "planejamento": {
+    "etapas": [
+      "Analisar o produto/oferta e entender a dor que resolve.",
+      "Identificar o público ideal (idade, gênero, local, interesse, comportamento).",
+      "Definir o objetivo da campanha (conversão, tráfego, engajamento, leads).",
+      "Selecionar o canal ideal com base no comportamento do público.",
+      "Definir orçamento inicial e estrutura de testes.",
+      "Desenhar a jornada do anúncio até a conversão (funil).",
+      "Definir indicadores de sucesso (métricas-chave)."
+    ],
+    "regras_de_orçamento": {
+      "teste_inicial": "Destinar 70% do orçamento para testes e 30% para estabilidade.",
+      "ajuste": "Aumentar 20% do orçamento se o ROAS superar 2.5 por 3 dias consecutivos."
+    }
+  }
+}
