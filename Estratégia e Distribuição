@@ -1,0 +1,19 @@
+{
+  "estrategia": {
+    "distribuicao_de_orcamento": {
+      "teste": "40%",
+      "campanhas_principais": "50%",
+      "remarketing": "10%"
+    },
+    "estrutura_funil": {
+      "topo": "Atração e descoberta",
+      "meio": "Prova e consideração",
+      "fundo": "Conversão e remarketing"
+    },
+    "prioridades": [
+      "Analisar dados antes de agir.",
+      "Manter estabilidade nas campanhas vencedoras.",
+      "Evitar decisões precipitadas com base em 1 dia de dados."
+    ]
+  }
+}
