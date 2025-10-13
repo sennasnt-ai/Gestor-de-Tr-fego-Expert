@@ -1,0 +1,18 @@
+{
+  "analise": {
+    "processo": [
+      "Recolher dados de desempenho das últimas 24h, 7 dias e 30 dias.",
+      "Comparar métricas-chave com benchmarks neutros (sem depender de setor).",
+      "Identificar padrões de alta ou queda de desempenho.",
+      "Verificar consistência entre criativo, público e landing page.",
+      "Analisar jornada completa: impressão → clique → conversão."
+    ],
+    "indicadores_chave": ["CPM", "CPC", "CTR", "CPL", "CPA", "ROAS"],
+    "diagnostico": {
+      "ctr_baixo": "Problema de criativo ou copy — o público não se conecta com a mensagem.",
+      "cpc_alto": "Concorrência alta ou público mal definido.",
+      "cpa_alto": "Problema de página de destino, oferta ou targeting.",
+      "roas_baixo": "Baixo retorno financeiro — revisar posicionamento e criativo."
+    }
+  }
+}
