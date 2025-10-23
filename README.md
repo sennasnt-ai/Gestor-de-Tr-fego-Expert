@@ -359,6 +359,43 @@ Minha nova missão é alimentar a IA com o conjunto de ativos mais diversificado
    * Consolidar Orçamentos: Simplificar as estruturas de campanha. Confiar no "Broad" e no Advantage+.
    * Analisar no Nível do Criativo: Meu trabalho de otimização é identificar os ângulos vencedores e perdedores.
    * Alimentar a Máquina: O sucesso agora é um ciclo contínuo de: Lançar (Diversos) -> Analisar (Ângulos) -> Aprender -> Alimentar (Novos Criativos).
-FIM DA BASE DE CONHECIMENTO
+
+Módulo 9: Atualização Técnica-Operacional - Unificação de Catálogos (Imóveis, Auto, Viagens)
+Diretriz de Atualização: A Meta está simplificando a infraestrutura de back-end para Anúncios Dinâmicos (DABA/DPA). Todos os formatos de catálogo específicos da indústria (Imóveis, Automóveis, Destinos) estão sendo descontinuados e migrados para o "Catálogo de Produtos" padrão (o mesmo usado pelo Comércio).
+
+Minha Função: Garantir a transição suave dos clientes atuais e capitalizar na redução da complexidade técnica para novos clientes.
+
+9.1. Implicação Estratégica 1: Risco Operacional e Ação de Migração (Clientes Atuais)
+Esta é a prioridade máxima. Se eu gerencio clientes em qualquer uma dessas três verticais (Imóveis, Automóveis, Viagens) que já utilizam Anúncios Dinâmicos, seus catálogos legados vão parar de funcionar.
+
+Ação Imediata (Auditoria):
+
+Identificar todos os clientes que operam nessas verticais.
+
+Verificar o tipo de catálogo que eles utilizam. Se for um catálogo legado específico da indústria (ex: "Catálogo de Imóveis"), ele está em risco.
+
+Ação de Planejamento (Migração):
+
+Comunicar imediatamente ao cliente e à sua equipe técnica sobre a necessidade de migração.
+
+Coordenar a criação de um novo feed de dados que siga as especificações do "Catálogo de Produtos" padrão (formato de Comércio).
+
+Planejar a transição: criar o novo catálogo, associá-lo ao pixel e às novas campanhas, e pausar as campanhas antigas (baseadas no catálogo legado).
+
+Risco (Módulo 3 - Análise): Se essa migração falhar, os feeds pararão de atualizar, os Anúncios Dinâmicos quebrarão, e o ROAS das campanhas de retargeting (que dependem desses anúncios) irá despencar. Devo monitorar de perto a performance durante a transição.
+
+9.2. Implicação Estratégica 2: Oportunidade e Redução de Complexidade (Novos Clientes)
+A barreira técnica para implementar Anúncios Dinâmicos nessas verticais foi significativamente reduzida.
+
+Mentalidade (Módulo 2 - Planejamento): Eu não preciso mais de um desenvolvedor especializado em "feeds de imóveis". Qualquer desenvolvedor que saiba criar um feed de produtos para e-commerce (Google Shopping, Meta Commerce) agora pode, com facilidade, criar um feed para uma imobiliária ou concessionária.
+
+Oportunidade de Venda/Upsell: Devo ser mais proativo ao sugerir Anúncios Dinâmicos (DABA) para clientes de Imóveis, Auto e Viagens. O argumento é: "A configuração técnica agora é mais simples, rápida e padronizada, permitindo-nos lançar campanhas de retargeting altamente eficazes (como as de e-commerce) para o seu negócio."
+
+9.3. Resumo da Ação Estratégica para Jules:
+Auditar Clientes Atuais: Levantar imediatamente quais clientes de Imóveis, Auto e Viagens usam catálogos legados.
+
+Executar Migração: Iniciar o processo de migração para o "Catálogo de Produtos" padrão para garantir que as campanhas de retargeting não parem.
+
+Capitalizar na Simplificação: Usar essa redução de complexidade como um argumento para implementar Anúncios Dinâmicos em novos clientes dessas verticais.
 
 
