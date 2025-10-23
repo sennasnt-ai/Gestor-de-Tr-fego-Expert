@@ -88,3 +88,165 @@ Hook (Gancho - 3s): Capturar a atenção e qualificar o público imediatamente.
 Body (Corpo): Apresentar o problema, agitar a dor e introduzir a solução.
 CTA (Call to Action): Comando claro, direto e com um motivo para agir agora.
 7.3. Sistema de Teste e Iteração de Criativos: O teste de criativos nunca para. Eu analiso os padrões dos vencedores (temas, cores, formatos, ângulos) para informar a próxima geração de anúncios, criando um ciclo de melhoria contínua.
+
+Arquivo 1: PLANO_DE_LANCAMENTO.md
+### Análise e Opinião Estratégica
+
+A análise financeira fornecida é excelente, precisa e 100% relevante. Ela aprimora nosso plano ao adicionar a camada financeira e analítica, definindo com clareza matemática as metas de performance para a fase de vendas.
+
+**Pontos Fortes:**
+1.  **Fundamento Financeiro:** Ancorar as metas de tráfego no lucro bruto disponível por venda.
+2.  **Clareza de Decisão:** A classificação de CPA (ótimo, bom, ruim) servirá como um "painel de controle" para a tomada de decisão em tempo real.
+3.  **Metas Realistas:** O CPA alvo de R$300 e o máximo de R$400 estão alinhados com um ROAS saudável (entre 2.5x e 3.3x).
+
+**Conclusão:** Esta análise será totalmente integrada ao nosso plano.
+
+---
+
+### **Plano de Batalha Final (Versão Otimizada)**
+
+#### **Métricas Centrais (Nossa Bússola)**
+
+*   **Preço do Produto:** R$997,00
+*   **ROAS Mínimo Viável:** 2.5x
+*   **ROAS Alvo:** 3.3x+
+*   **CPA Alvo (para otimização):** R$300
+*   **CPA Máximo (limite para pausar):** R$400
+
+---
+
+### **FASE 1: Captação de Leads Qualificados (24/10 a 10/11)**
+
+*   **Orçamento:** R$12.200 (80%)
+*   **Meta:** ~3.050 Leads
+*   **KPI:** CPL Médio de R$4,00
+*   **Objetivo de Campanha:** Conversões (Evento: `Lead`)
+
+#### **Estrutura de Campanhas - FASE 1**
+
+**Plataforma: Meta Ads (Facebook/Instagram)**
+
+*   **Campanha 1: "Lançamento - F1 - Morno/Quente" (Orçamento: R$9.760)**
+    *   **Tipo de Orçamento:** CBO
+    *   **Conjunto de Anúncios 1.1:** *Público:* Seguidores do Instagram + Pessoas que Engajaram (últimos 180 dias).
+    *   **Conjunto de Anúncios 1.2:** *Público:* Visualizadores de Vídeo (75% e 95% - últimos 180 dias).
+*   **Campanha 2: "Lançamento - F1 - Frio" (Orçamento: R$2.440)**
+    *   **Tipo de Orçamento:** CBO
+    *   **Conjunto de Anúncios 2.1:** *Público:* Lookalike 1% (Base: Engajamento).
+    *   **Conjunto de Anúncios 2.2:** *Público:* Interesses Detalhados.
+
+**Plataforma: Google Ads (YouTube Shorts)**
+
+*   **Campanha 3: "Lançamento - F1 - YouTube"**
+    *   **Objetivo:** Conversões (Leads)
+    *   **Conjunto de Anúncios 3.1:** *Público:* Remarketing (Inscritos, Visualizadores).
+    *   **Conjunto de Anúncios 3.2:** *Público:* Tópicos/Interesses.
+
+---
+
+### **FASE 2: Aquecimento e Antecipação (03/11 a 08/11)**
+
+*   **Orçamento:** R$762,50 (5%)
+*   **KPI:** Custo por ThruPlay
+*   **Objetivo de Campanha:** Visualizações de Vídeo
+
+#### **Estrutura de Campanhas - FASE 2**
+
+**Plataforma: Meta Ads**
+
+*   **Campanha 4: "Lançamento - F2 - Remarketing Aquecimento"**
+    *   **Conjunto de Anúncios 4.1:** *Público:* TODOS OS LEADS (Lista de clientes).
+
+**Plataforma: Google Ads (YouTube)**
+
+*   **Campanha 5: "Lançamento - F2 - Remarketing YouTube"**
+    *   **Conjunto de Anúncios 5.1:** *Público:* TODOS OS LEADS (Customer Match).
+
+---
+
+### **FASE 3: Vendas High-Ticket (13/11 a 18/11)**
+
+*   **Orçamento:** R$2.287,50 (15%)
+*   **Meta:** ~61 Vendas
+*   **KPIs:** CPA (< R$400) e ROAS (> 2.5x)
+*   **Objetivo de Campanha:** Conversões (Evento: `Purchase`)
+
+#### **Estrutura de Campanhas - FASE 3**
+
+**Plataforma: Meta Ads**
+
+*   **Campanha 6: "Lançamento - F3 - Remarketing de Vendas"**
+    *   **Tipo de Orçamento:** CBO
+    *   **Conjunto de Anúncios 6.1 (Prioridade Alta):** *Público:* `InitiateCheckout` (Últimos 7 dias) - Excluir `Purchase`.
+    *   **Conjunto de Anúncios 6.2 (Prioridade Média):** *Público:* `ViewContent` da Página de Vendas (Últimos 7 dias) - Excluir `InitiateCheckout` e `Purchase`.
+    *   **Conjunto de Anúncios 6.3 (Prioridade Baixa):** *Público:* Todos os Leads - Excluir Públicos 6.1, 6.2 e `Purchase`.
+
+**Plataforma: Google Ads (YouTube)**
+
+*   **Campanha 7: "Lançamento - F3 - Remarketing YouTube Vendas"**
+    *   **Conjunto de Anúncios 7.1:** *Público:* `InitiateCheckout` + `ViewContent` da Página de Vendas - Excluir `Purchase`.
+
+Arquivo 2: GUIA_RASTREAMENTO.md
+### **Guia de Rastreamento Analítico do Lançamento**
+
+Um rastreamento preciso é o que nos permitirá tomar decisões baseadas em dados, e não em suposições.
+
+---
+
+#### **Parte 1: A Arquitetura dos Parâmertros UTM**
+
+O UTM é a "etiqueta de identidade" de cada clique. Usaremos uma estrutura consistente para todos os links em nossos anúncios.
+
+**Estrutura Padrão do Link:**
+`https://suapagina.com.br/?utm_source=[PLATAFORMA]&utm_medium=cpc&utm_campaign=[NOME_DA_CAMPANHA]&utm_content=[NOME_DO_ANUNCIO]&utm_term=[PUBLICO]`
+
+**Componentes Detalhados:**
+
+*   `utm_source`: A plataforma de tráfego.
+    *   **Valores:** `meta`, `google`
+*   `utm_medium`: O modelo de custo. Sempre será `cpc`.
+*   `utm_campaign`: O nome da campanha, seguindo a nomenclatura definida.
+    *   **Exemplos:** `Lançamento-F1-Morno`, `Lançamento-F3-Vendas`
+*   `utm_content`: O nome do anúncio específico.
+    *   **Exemplos:** `Video-Dor-Ex`, `Video-Transformacao`
+*   `utm_term`: O público que está sendo segmentado.
+    *   **Exemplos:** `Seguidores-IG`, `Lookalike-1`, `Remarketing-IC`
+
+**Exemplo Prático de um Link (Anúncio na Fase 1):**
+`https://seusite.com.br/inscricao/?utm_source=meta&utm_medium=cpc&utm_campaign=Lançamento-F1-Morno&utm_content=Video-Dor-Ex&utm_term=Seguidores-IG`
+
+---
+
+#### **Parte 2: Eventos de Rastreamento (Pixel & Google Analytics)**
+
+Os eventos nos dizem o que o tráfego faz em nossas páginas.
+
+**Eventos Padrão (Essenciais):**
+
+1.  **`ViewContent`**: Dispara em todas as páginas principais.
+2.  **`Lead`**: Dispara na Página de Obrigado (após a inscrição).
+3.  **`InitiateCheckout`**: Dispara no clique do botão de compra.
+4.  **`Purchase`**: Dispara na página de "compra aprovada".
+
+**Eventos Personalizados (Vantagem Estratégica):**
+
+1.  **`EngagedLead_Survey`**
+    *   **O que rastreia:** Clique no link da pesquisa de qualificação no WhatsApp.
+    *   **Onde disparar:** Na página da pesquisa.
+    *   **Por quê:** Identifica os leads mais comprometidos para criar públicos de "Super Leads".
+
+2.  **`HotLead_SalesPage`**
+    *   **O que rastreia:** Tempo de permanência na página de vendas (> 90 segundos).
+    *   **Como implementar:** Disparar um evento baseado em temporizador via Google Tag Manager.
+    *   **Por quê:** Identifica "Leitores Atentos" para um remarketing mais específico.
+
+3.  **`VideoWatched_SalesPage`**
+    *   **O que rastreia:** Visualização do vídeo de vendas principal (> 50%).
+    *   **Como implementar:** Disparar via Google Tag Manager com base em gatilho de visualização de vídeo.
+    *   **Por quê:** Sinal de altíssimo interesse, valioso para remarketing.
+
+### **Plano de Ação para Implementação:**
+
+1.  **UTMs:** Use uma planilha para gerar e organizar todos os links de anúncios.
+2.  **Eventos Padrão:** Verifique a instalação do pixel do Meta e da tag do GA4 em todas as páginas e na Hotmart.
+3.  **Eventos Personalizados:** Use o Google Tag Manager (GTM) para configurar os eventos `EngagedLead_Survey`, `HotLead_SalesPage`, e `VideoWatched_SalesPage`.
